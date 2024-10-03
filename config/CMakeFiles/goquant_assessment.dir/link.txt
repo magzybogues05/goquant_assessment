@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/goquant_assessment.dir/src/main.cpp.o CMakeFiles/goquant_assessment.dir/src/mexc_api.cpp.o CMakeFiles/goquant_assessment.dir/src/websocket_client.cpp.o -o goquant_assessment  /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

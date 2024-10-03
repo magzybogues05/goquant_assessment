@@ -1,0 +1,3 @@
+/home/magzybogues/projects/goquant_assessment/config/CMakeFiles/goquant_assessment.dir
+/home/magzybogues/projects/goquant_assessment/config/CMakeFiles/edit_cache.dir
+/home/magzybogues/projects/goquant_assessment/config/CMakeFiles/rebuild_cache.dir
